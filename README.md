@@ -129,9 +129,3 @@ STM32-Motor-Control/
 
 - [SimpleFOC 官方文档](https://docs.simplefoc.com/)
 - [STM32duino](https://github.com/stm32duino/Arduino_Core_STM32)
-
----
-
-## ⚠️ 免责声明
-
-本项目仅供学习交流，操作时注意用电安全，12V 电源请勿反接。
