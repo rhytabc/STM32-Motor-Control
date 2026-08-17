@@ -1,3 +1,9 @@
+<div align="center">
+
+**简体中文** · [English](./README_EN.md)
+
+</div>
+
 # 有刷直流电机 PWM 调速
 
 基于 STM32F103C8T6 + L298N 的有刷直流电机控制，支持 PWM 调速、正反转、串口命令控制。

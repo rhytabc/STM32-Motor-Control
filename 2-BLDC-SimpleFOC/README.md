@@ -1,3 +1,9 @@
+<div align="center">
+
+**简体中文** · [English](./README_EN.md)
+
+</div>
+
 # 无刷电机 SimpleFOC 控制
 
 基于 STM32F103C8T6 + SimpleFOC 库的无刷直流电机（BLDC）FOC 磁场定向控制，支持开环/闭环速度控制、位置控制、力矩控制。
