@@ -1,0 +1,27 @@
+# Keil 构建产物
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.map
+*.lst
+*.lnp
+*.dep
+*.scf
+*.hex
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+RTE/
+
+# Arduino 构建产物
+build/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 视频大文件（如需上传请手动添加）
+docs/videos/*.mp4
