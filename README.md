@@ -99,9 +99,16 @@ STM32-Motor-Control/
 
 ## 📹 效果演示
 
-<!-- TODO: 硬件连接图片 -->
+### 硬件连接
 
-<!-- TODO: 演示视频 -->
+![硬件连接图](docs/images/wiring-diagram.jpg)
+
+### 演示视频
+
+<video width="640" controls>
+  <source src="docs/videos/demo.mp4" type="video/mp4">
+  你的浏览器不支持视频播放，<a href="docs/videos/demo.mp4">点击下载</a>
+</video>
 
 ---
 
