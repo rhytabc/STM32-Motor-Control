@@ -101,14 +101,14 @@ STM32-Motor-Control/
 
 ### 硬件连接 · Hardware Wiring
 
-![硬件连接图 Wiring Diagram](docs/images/wiring-diagram.jpg)
+<img width="3072" height="4096" alt="硬件连接图" src="https://github.com/user-attachments/assets/427b00ca-8937-4535-86e8-ca1280f9d461" />
 
 ### 演示视频 · Demo Video
 
-<video width="640" controls>
-  <source src="docs/videos/demo.mp4" type="video/mp4">
-  你的浏览器不支持视频播放 · <a href="docs/videos/demo.mp4">点击下载 Download</a>
-</video>
+
+https://github.com/user-attachments/assets/a347a616-d1ec-412b-bb2c-16f88da9f478
+
+
 
 ---
 
