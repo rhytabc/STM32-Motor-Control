@@ -4,9 +4,6 @@
 
 *Based on STM32F103C8T6, a complete motor control learning project covering **brushed DC motor PWM speed control** to **brushless DC motor (BLDC) FOC control**, culminating in a **force feedback knob**.*
 
-> 一个从零到一的嵌入式电机控制学习记录，代码完整、注释详细、可复现。
-> *A from-scratch embedded motor control learning record with complete code and full reproducibility.*
-
 ---
 
 ## 📖 项目总览 · Project Overview
