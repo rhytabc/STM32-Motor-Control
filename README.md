@@ -1,3 +1,9 @@
+<div align="center">
+
+**简体中文** · [English](./README_EN.md)
+
+</div>
+
 # STM32 电机控制学习项目（从有刷到无刷 FOC）
 
 基于 STM32F103C8T6 的完整电机控制学习项目，涵盖**有刷直流电机 PWM 调速**到**无刷直流电机（BLDC）FOC 控制**，最终实现一个**力反馈旋钮**。
